@@ -16,6 +16,7 @@
     - [توزیع‌های گنو/لینوکسی](#توزیعهای-گنولینوکسی)
     - [قلم](#قلم)
     - [مدیریت بارگیری](#مدیریت-بارگیری)
+    - [ابزارهای خط فرمان](#ابزارهای-خط-فرمان)
 
 --------
 
@@ -148,6 +149,25 @@
       <td style="text-align: center; padding: 8px;">پرسیپولیس</td>
       <td style="text-align: center; padding: 8px;">رابط گرافیکی برای مدیریت بارگیری با استفاده از aria2</td>
       <td style="text-align: center; padding: 8px;"><a href="https://github.com/persepolisdm/persepolis">persepolis</a></td>
+    </tr>
+  </tbody>
+</table>
+
+--------
+### ابزارهای خط فرمان
+<table style="width:100%; table-layout: fixed; border: 1px solid #ddd; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="width: 33%; text-align: center; padding: 8px;">نام پروژه</th>
+      <th style="width: 33%; text-align: center; padding: 8px;">توضیحات</th>
+      <th style="width: 34%; text-align: center; padding: 8px;">تارنما</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center; padding: 8px;">تسکی</td>
+      <td style="text-align: center; padding: 8px;">ابزاری برای مدیریت تسک ها و کارها</td>
+      <td style="text-align: center; padding: 8px;"><a href="https://github.com/shahriaarrr/tasky">Tasky</a></td>
     </tr>
   </tbody>
 </table>
