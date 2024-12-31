@@ -187,6 +187,11 @@
       <td style="text-align: center; padding: 8px;">رابط گرافیکی برای استفاده از SSH</td>
       <td style="text-align: center; padding: 8px;"><a href="https://github.com/omidmousavi/CSharp-SSH-VPN">CSharp-SSH-VPN</a></td>
     </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px;">MTProtoProxyInstaller</td>
+      <td style="text-align: center; padding: 8px;">اسکریپت ساخت MTProto روی اوبونتو یا سنت‌او‌اس</td>
+      <td style="text-align: center; padding: 8px;"><a href="https://github.com/HirbodBehnam/MTProtoProxyInstaller">MTProtoProxyInstaller</a></td>
+    </tr>
   </tbody>
 </table>
 
