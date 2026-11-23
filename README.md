@@ -80,6 +80,11 @@
       <td style="text-align: center; padding: 8px;">مدل مبتنی بر BERT برای پردازش زبان فارسی</td>
       <td style="text-align: center; padding: 8px;"><a target="_blank" href="https://github.com/hooshvare/parsbert">parsbert</a></td>
     </tr>
+    <tr>
+      <td style="text-align: center; padding: 8px;">پرشین رَگ</td>
+      <td style="text-align: center; padding: 8px;">سیستم پرسش و پاسخ هوشمند اسناد فارسی با جستجوی هیبریدی و استناد به منابع</td>
+      <td style="text-align: center; padding: 8px;"><a target="_blank" href="https://github.com/ariaesm/persian-rag">persian-rag</a></td>
+    </tr>
   </tbody>
 </table>
 
