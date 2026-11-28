@@ -19,6 +19,7 @@
     - [مدیریت بارگیری](#مدیریت-بارگیری)
     - [فیلترشکن](#فیلترشکن)
     - [پرداخت و فین تک](#پرداخت-و-فین-تک)
+    - [ویرایشگر و مدیریت اسناد](#ویرایشگر-و-مدیریت-اسناد)
 
 
 ---
@@ -337,6 +338,31 @@
   </tbody>
 </table>
 
+
+---
+
+### ویرایشگر و مدیریت اسناد
+
+<table style="width:100%; table-layout: fixed; border: 1px solid #ddd; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="width: 33%; text-align: center; padding: 8px;">نام پروژه</th>
+      <th style="width: 33%; text-align: center; padding: 8px;">توضیحات</th>
+      <th style="width: 34%; text-align: center; padding: 8px;">تارنما</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center; padding: 8px;">داک‌لوم (DocLoom)</td>
+      <td style="text-align: center; padding: 8px;">
+        استودیوی آفلاین و دوزبانه (فارسی/انگلیسی) تبدیل Markdown و صورت‌حساب‌های اکسل (.xls/.xlsx) و FastReport به سند چاپی، Word (.docx)، PDF و تک‌فایل مستقل HTML با فونت وزیرمتن توکار.
+      </td>
+      <td style="text-align: center; padding: 8px;">
+        <a target="_blank" href="https://github.com/mojtabahasani/DocLoom">DocLoom</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
